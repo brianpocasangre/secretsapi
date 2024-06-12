@@ -1,0 +1,21 @@
+{
+  "name": "secretsapi",
+  "version": "1.0.0",
+  "description": "Secrets API using express, ejs, body-parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/brianpocasangre/secretsapi"
+  },
+  "author": "Brian Pocasangre",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  }
+}
